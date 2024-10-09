@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "bdc31896-90cb-4479-8ea0-71f1c4ee48de",
+		"name": "GITHUB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18791192"
+	},
+	"item": [
+		{
+			"name": "Ping",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get PullRequests",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
